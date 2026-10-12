@@ -1,0 +1,10 @@
+monai
+matplotlib
+torch
+torchaudio
+torchvision
+SimpleITK
+tensorboard
+tensorboardX
+tqdm
+numpy
